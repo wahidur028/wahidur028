@@ -1,5 +1,5 @@
 # 🧠 Wahidur Rahman </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smwahidurrahman/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wahid028) 
+[![Website](https://img.shields.io/badge/Website-Portfolio-informational?logo=google-chrome&logoColor=white)](https://sites.google.com/view/wahidur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smwahidurrahman/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wahid028) 
 
 **AI Researcher | Telco-Expert | Technologist**
 
