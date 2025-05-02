@@ -1,16 +1,14 @@
-## Hi there 👋
+🎓 **Doctoral Researcher in Electrical Engineering & Computer Science**  
+[Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/en/), South Korea
 
-<!--
-**wahidur028/wahidur028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **Generative AI (GenAI)** and its practical deployment in real-world applications. My research explores the optimization of **open-source large language models (LLMs)** and the advancement of methodologies in **Natural Language Processing (NLP)** and **Natural Language Understanding (NLU)**.
 
-Here are some ideas to get you started:
+With over **10 years of professional experience in Telecommunications**, I combine deep industry insight with cutting-edge academic research. I’m passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enhancing the performance of open-source AI frameworks  
+- Building scalable NLP/NLU systems  
+- Bridging the gap between **academia and industry** through collaborative R&D  
+- Driving innovation in AI-powered solutions for real-world challenges
+
+I actively seek **interdisciplinary collaborations** that foster open innovation and deliver meaningful impact across sectors.
+
